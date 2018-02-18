@@ -1,9 +1,9 @@
 
 
 public class HelloWorld {
-	public void addfeatureB()
+	public void addfeatureA()
 	{
-		System.out.println("Feature B added ");
+		System.out.println("Feature A added ");
 		}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
